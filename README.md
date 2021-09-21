@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hamzaamughal
+- 👋 Hi, I’m @hamzaamughal, MERN Stack Developer.
 - 👀 I’m interested in web and mobile cloud application.
-- 🌱 I’m currently learning AWS and MERN-Stack
+- 🌱 I’m currently learning AWS and React-Native.
 - 💞️ I’m looking to collaborate on open source technologies.
 - 📫 Reach me on Github and LinkedIn Profile. 
 
