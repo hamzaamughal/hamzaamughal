@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Mughal</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaamughal&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamughal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaamughal" alt="hamzaamughal" /></a> </p>
 
 - 🔭 I’m currently working on **Sabhi.org**
 
