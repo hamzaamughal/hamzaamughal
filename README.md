@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AWS, React-Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hamza7.netlify.app/](https://portfolio-hamza7.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hamzaabubakar.dev/](https://hamzaabubakar.dev/)
 
-- 📝 I regularly write articles on [https://portfolio-hamza7.netlify.app/](https://portfolio-hamza7.netlify.app/)
+- 📝 I regularly write articles on [https://hamzaabubakar.dev/](https://hamzaabubakar.dev/)
 
 - 💬 Ask me about **react,node**
 
