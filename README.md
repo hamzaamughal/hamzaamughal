@@ -4,24 +4,24 @@
 <p align="center">
   <a href="https://hamzaabubakar.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hamza-abubakar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mughalh473@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hamza@hamzaabubakar.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-- 🔭 I'm currently building **AI-powered products with RAG and LLM APIs**
+- 🔭 I'm currently building **AI products with RAG, LLM agents and voice AI**
 
-- 💼 **5+ years** building production web applications for international clients
+- 💼 **6+ years** building production web applications for international clients
 
-- 🚀 Recently shipped **[Recall](https://rag-hamza.vercel.app)** — a document Q&A app powered by retrieval-augmented generation
+- 🚀 Recently shipped **[ScopeCheck](https://scopecheck.hamzaabubakar.dev)**, **[Resolve](https://support-resolver.vercel.app)** and an **[AI Receptionist](https://receptionist.hamzaabubakar.dev)**
 
 - 🛠️ I work across **React, Next.js, TypeScript, Node.js, NestJS, Python/Django, PostgreSQL and AWS**
 
-- 🤖 I use **Claude Code, Cursor and Codex** daily — as leverage, not autopilot
+- 🤖 I use **Claude Code, Cursor and Codex** daily, as leverage, not autopilot
 
 - 💬 Ask me about **React, Next.js, Node.js, API design, PostgreSQL performance, and RAG pipelines**
 
-- 📫 Reach me at **mughalh473@gmail.com**
+- 📫 Reach me at **hamza@hamzaabubakar.dev**
 
 - 📄 More about my experience on [LinkedIn](https://www.linkedin.com/in/hamza-abubakar)
 
@@ -31,13 +31,25 @@
 
 <h3 align="left">🚀 Featured Work</h3>
 
-**[Recall](https://rag-hamza.vercel.app)** — Document Q&A with retrieval-augmented generation. Upload documents, ask questions in plain language, get answers grounded in your own content with sources shown alongside. Built end to end: ingestion and chunking pipeline, OpenAI embeddings, pgvector indexing, semantic retrieval, and a streaming chat interface.
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `pgvector` `OpenAI`
+**[ScopeCheck](https://scopecheck.hamzaabubakar.dev)** — SaaS for freelancers and agencies. Import a signed contract, paste a new client request, and the AI marks it Included, Extra work or Needs clarification, with exact page-cited quotes. Every quote is verified word for word against the source, and unsupported answers are rejected. Multi-document RAG with page-aware chunking and hybrid search (Postgres full-text + pgvector, reciprocal rank fusion). Correct section in the top 5 for 100% of a 20-request eval.
+`Next.js` `TypeScript` `PostgreSQL` `pgvector` `OpenAI` `Vercel AI SDK`
+
+**[Resolve](https://support-resolver.vercel.app)** — AI support agent for a shop. Reads a ticket, retrieves from a knowledge base, then drafts a grounded reply for a human to approve, or escalates. A distance-threshold backstop force-escalates when retrieval is too weak, so a poor match can't produce a made-up answer.
+`Next.js` `TypeScript` `pgvector` `OpenAI` `Zod`
+
+**[AI Receptionist](https://receptionist.hamzaabubakar.dev)** — Voice agent that answers a clinic's calls, checks opening hours and takes booking requests, with a staff dashboard showing transcripts and summaries. Live demo on a fictional dental clinic.
+`Vapi` `Next.js` `Fastify` `Node.js`
+
+**[Website Health Check](https://check.hamzaabubakar.dev)** — Enter a site and get a score report from Google PageSpeed plus 14 checks (HTTPS, mobile viewport, meta tags, broken links, contact form and more), with a full fix list.
+`Next.js` `TypeScript` `PageSpeed API`
+
+**[Recall](https://rag-hamza.vercel.app)** — Document Q&A with retrieval-augmented generation. Ask questions in plain language and get answers grounded in the documents, with source passages and relevance scores shown alongside. Ingestion and chunking pipeline, OpenAI embeddings, pgvector indexing, streaming chat.
+`Next.js` `TypeScript` `PostgreSQL` `pgvector` `OpenAI`
 
 **Qeepsake** — Consumer platform (client work at DIS Global Services). Built the gift and payment flows end to end, led a full UI rebranding across the live product, and handled ongoing production fixes.
 `React` `Node.js` `Payments`
 
-**Daily Dog Fights** — Tournament platform (client work at DIS Global Services). Built the admin dashboard for tournament management — tables, forms, filters and role-based workflows — plus backend fixes.
+**Daily Dog Fights** — Tournament platform (client work at DIS Global Services). Built the admin dashboard for tournament management (tables, forms, filters and role-based workflows) plus backend fixes.
 `React` `Node.js` `Dashboards`
 
 ---
@@ -74,9 +86,9 @@
 <h3 align="left">📊 GitHub</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-2ea44f?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20years-blue?style=flat-square" alt="experience" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-blue?style=flat-square" alt="experience" />
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20PK-orange?style=flat-square" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Onsite-purple?style=flat-square" alt="availability" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-purple?style=flat-square" alt="availability" />
 </p>
 
 <!---
