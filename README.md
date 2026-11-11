@@ -46,10 +46,10 @@
 **[Recall](https://rag-hamza.vercel.app)** — Document Q&A with retrieval-augmented generation. Ask questions in plain language and get answers grounded in the documents, with source passages and relevance scores shown alongside. Ingestion and chunking pipeline, OpenAI embeddings, pgvector indexing, streaming chat.
 `Next.js` `TypeScript` `PostgreSQL` `pgvector` `OpenAI`
 
-**Qeepsake** — Consumer platform (client work at DIS Global Services). Built the gift and payment flows end to end, led a full UI rebranding across the live product, and handled ongoing production fixes.
+**[Qeepsake](https://qeepsake.com/)** — Consumer platform (client work at DIS Global Services). Built the gift and payment flows end to end, led a full UI rebranding across the live product, and handled ongoing production fixes.
 `React` `Node.js` `Payments`
 
-**Daily Dog Fights** — Tournament platform (client work at DIS Global Services). Built the admin dashboard for tournament management (tables, forms, filters and role-based workflows) plus backend fixes.
+**[Daily Dog Fights](https://www.dailydogfights.com/)** — Tournament platform (client work at DIS Global Services). Built the admin dashboard for tournament management (tables, forms, filters and role-based workflows) plus backend fixes.
 `React` `Node.js` `Dashboards`
 
 ---
